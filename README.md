@@ -9,9 +9,9 @@
 | Dataset ID | `876844` |
 | Location | Albuquerque, NM |
 | Category | Restaurants |
-| Full dataset size | 1,640 records |
-| Free sample size | 214 records (13.05%) |
-| Last export | 2026-03-31T15:53:26.646593+00:00 |
+| Full dataset size | 2,140 records |
+| Free sample size | 214 records (10.0%) |
+| Last export | 2026-04-14T16:42:33.174513+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-albuquerque-metro-new-mexico-us-sample-876844/releases/download/sample-latest/beamstation_876844_restaurants-us-albuquerquenm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
