@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4f31d721-6c88-4a32-b6ce-ab0aaebc156d",
+  "export_job_id": "16006a62-0094-44f3-bd8b-4a6081a07322",
   "id_short": 876844,
-  "published_at": "2026-04-18T07:10:08Z",
+  "published_at": "2026-04-21T19:55:18Z",
   "repo_name": "all-restaurants-in-albuquerque-metro-new-mexico-us-sample-876844",
   "sample_asset_name": "beamstation_876844_restaurants-us-albuquerquenm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/876844/beamstation_876844_restaurants-us-albuquerquenm_SAMPLE_DIST.csv",
-  "sample_records": 214,
-  "sample_sha256": "7bfd90c0d3a58e94dcf6a574e4997287f360fc90cd8b74b56c0160146e0d714b",
-  "sample_size_bytes": 809964,
-  "total_records": 2140
+  "sample_records": 152,
+  "sample_sha256": "145b6b03260eaa48de6f5ba417a489c025324b64d8aad3011ab082589e5ac1ac",
+  "sample_size_bytes": 593305,
+  "total_records": 1522
 }
