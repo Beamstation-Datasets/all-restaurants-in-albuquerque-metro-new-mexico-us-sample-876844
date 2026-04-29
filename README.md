@@ -1,6 +1,6 @@
 # All Restaurants in Albuquerque (Metro), New Mexico, US
 
-> Free BeamStation sample export with 152 rows and masked direct-contact fields.
+> Free BeamStation sample export with 204 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `876844` |
 | Location | Albuquerque, NM |
 | Category | Restaurants |
-| Full dataset size | 1,522 records |
-| Free sample size | 152 records (9.99%) |
-| Last export | 2026-04-21T18:13:03.030904+00:00 |
+| Full dataset size | 2,042 records |
+| Free sample size | 204 records (9.99%) |
+| Last export | 2026-04-28T19:31:47.660146+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-albuquerque-metro-new-mexico-us-sample-876844/releases/download/sample-latest/beamstation_876844_restaurants-us-albuquerquenm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
