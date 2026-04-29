@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Metro-wide restaurant data for the Albuquerque (Metro), New Mexico metropolitan area, spanning Albuquerque. Captures the competitive landscape across city boundaries within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Albuquerque (Metro), New Mexico, US",
-  "export_job_id": "16006a62-0094-44f3-bd8b-4a6081a07322",
+  "export_job_id": "622c8071-212b-4841-96f2-d0bb3e84c388",
   "github_org": "Beamstation-Datasets",
   "id_short": 876844,
   "location_name": "Albuquerque, NM",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-albuquerque-metro-new-mexico-us-sample-876844",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/876844/beamstation_876844_restaurants-us-albuquerquenm_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 152,
-  "sample_sha256": "145b6b03260eaa48de6f5ba417a489c025324b64d8aad3011ab082589e5ac1ac",
-  "sample_size_bytes": 593305,
-  "total_records": 1522,
-  "updated_at": "2026-04-21T18:13:03.030904+00:00"
+  "sample_records": 204,
+  "sample_sha256": "05019672c908924e788f5bdc9d619ca9d7ce4a55b9f0e5c41d041888a0935745",
+  "sample_size_bytes": 740516,
+  "total_records": 2042,
+  "updated_at": "2026-04-28T19:31:47.660146+00:00"
 }
